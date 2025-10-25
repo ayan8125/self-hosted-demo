@@ -1,5 +1,5 @@
 # app.py
-# This is a test commit
+# This is a test commits
 def add(a, b):
     return a + b
 
@@ -15,4 +15,4 @@ def test_add():
 
 test_add()
 
-print("Test Ran Successfully")
+print("Test Ran Successfully!")
